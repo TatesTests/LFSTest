@@ -1,3 +1,4 @@
 ls -a
 git status
 git log
+git remote get-url origin
