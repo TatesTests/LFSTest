@@ -1,2 +1,4 @@
 [lfs]
   url = http://169.254.169.254/
+  [http://169.254.169.254/]
+    locksverify = false
